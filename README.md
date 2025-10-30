@@ -1,11 +1,9 @@
 # Alzheimer’s Brain Shape Analysis in Kendall’s Shape Space
 > Graduate research-style final project (unpublished paper)
-> 
 > M.S. in Statistics, University of Massachusetts Amherst
 
 
-This project applies geometric and statistical modeling to analyze structural differences in the corpus callosum between Alzheimer’s patients and healthy controls.
-Using Kendall’s shape space, Fréchet means, and energy-distance permutation testing, it demonstrates how non-Euclidean statistics can capture subtle but meaningful geometric variations that traditional linear methods overlook.
+This project applies geometric and statistical modeling to analyze structural differences in the corpus callosum between Alzheimer’s patients and healthy controls. Using Kendall’s shape space, Fréchet means, and energy-distance permutation testing, it demonstrates how non-Euclidean statistics can capture subtle but meaningful geometric variations that traditional linear methods overlook.
 
 ---
 
