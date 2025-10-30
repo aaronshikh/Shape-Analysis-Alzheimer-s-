@@ -1,4 +1,4 @@
-# Alzheimer’s Brain Shape Analysis in Kendall’s Shape Space
+# Alzheimer’s Brain Shape Analysis
 > Graduate research-style final project (unpublished paper)
 >
 > M.S. in Statistics, University of Massachusetts Amherst
